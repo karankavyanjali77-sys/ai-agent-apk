@@ -16,7 +16,7 @@
 set -euo pipefail
 
 # ----------- Configuration (edit these) -----------
-PROJECT_ID="${PROJECT_ID:-your-gcp-project-id}"
+PROJECT_ID="$ adk-agent-492603"
 REGION="${REGION:-us-central1}"
 SERVICE_NAME="text-intelligence-agent"
 REPO_NAME="adk-agents"
